@@ -1,0 +1,6 @@
+flask
+opencv-python-headless  # Use this instead of opencv-python for servers
+mediapipe
+scikit-learn
+numpy
+gunicorn  # Production server for Flask
